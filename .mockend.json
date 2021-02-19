@@ -9,5 +9,14 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+  "Dashboard": {
+    "title": "string",
+    "createdAt": "date",
+    "tags": "Tag[]"
+  },
+  "Tag": {
+    "label": "string",
+    "color": "#BADA55"
   }
 }
